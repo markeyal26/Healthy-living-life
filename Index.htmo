@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthy Living Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Healthy Living Hub</h1>
+        <p>Your go-to resource for reliable information on nutrition, exercise, and mental well-being.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#nutrition">Nutrition</a></li>
+            <li><a href="#exercise">Exercise</a></li>
+            <li><a href="#mental-wellbeing">Mental Well-Being</a></li>
+            <li><a href="#community">Community Support</a></li>
+            <li><a href="#blog">Blog</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="nutrition">
+            <h2>Nutrition</h2>
+            <p>Explore healthy recipes and meal planning tips to nourish your body.</p>
+        </section>
+
+        <section id="exercise">
+            <h2>Exercise</h2>
+            <p>Find workout plans and tips to stay active and fit.</p>
+        </section>
+
+        <section id="mental-wellbeing">
+            <h2>Mental Well-Being</h2>
+            <p>Discover tips for maintaining mental health and well-being.</p>
+        </section>
+
+        <section id="community">
+            <h2>Community Support</h2>
+            <p>Join our forum to share experiences and advice with others on their health journeys.</p>
+        </section>
+
+        <section id="blog">
+            <h2>Blog</h2>
+            <p>Read success stories and articles that inspire healthy habits.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Related Sites:</p>
+        <ul>
+            <li><a href="https://www.healthline.com" target="_blank">Healthline</a></li>
+            <li><a href="https://www.verywellfit.com" target="_blank">Verywell Fit</a></li>
+        </ul>
+        <p>&copy; 2026 Healthy Living Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
