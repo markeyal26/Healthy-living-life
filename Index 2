@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthy Recipes - Healthy Living Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Healthy Recipes</h1>
+        <p>Delicious and nutritious recipes to fuel your healthy lifestyle.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#breakfast">Breakfast</a></li>
+            <li><a href="#lunch">Lunch</a></li>
+            <li><a href="#dinner">Dinner</a></li>
+            <li><a href="#snacks">Snacks</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="breakfast">
+            <h2>Breakfast Recipes</h2>
+            <article>
+                <h3>Avocado Toast</h3>
+                <p>Whole grain toast topped with mashed avocado, cherry tomatoes, and a sprinkle of salt and pepper.</p>
+            </article>
+            <article>
+                <h3>Overnight Oats</h3>
+                <p>Combine rolled oats, yogurt, almond milk, and your favorite fruits in a jar and refrigerate overnight.</p>
+            </article>
+        </section>
+
+        <section id="lunch">
+            <h2>Lunch Recipes</h2>
+            <article>
+                <h3>Quinoa Salad</h3>
+                <p>A fresh salad with quinoa, cucumbers, bell peppers, chickpeas, and a lemon-tahini dressing.</p>
+            </article>
+            <article>
+                <h3>Turkey Wrap</h3>
+                <p>Whole wheat wrap filled with turkey, spinach, hummus, and sliced vegetables.</p>
+            </article>
+        </section>
+
+        <section id="dinner">
+            <h2>Dinner Recipes</h2>
+            <article>
+                <h3>Grilled Salmon</h3>
+                <p>Salmon fillet grilled to perfection, served with steamed broccoli and brown rice.</p>
+            </article>
+            <article>
+                <h3>Vegetable Stir-Fry</h3>
+                <p>A mix of colorful vegetables stir-fried with tofu and served over brown rice.</p>
+            </article>
+        </section>
+
+        <section id="snacks">
+            <h2>Healthy Snacks</h2>
+            <article>
+                <h3>Greek Yogurt with Honey</h3>
+                <p>Plain Greek yogurt drizzled with honey and topped with nuts and berries.</p>
+            </article>
+            <article>
+                <h3>Veggies and Hummus</h3>
+                <p>Carrot sticks, cucumber slices, and bell pepper strips served with hummus.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Healthy Living Hub. All rights reserved.</p>
+        <p><a href="index.html">Back to Home</a></p>
+    </footer>
+</body>
+</html>
